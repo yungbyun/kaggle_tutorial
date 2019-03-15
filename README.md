@@ -1,4 +1,4 @@
-# kaggle_tutorial
+# 캐글 튜토리얼 자료
 
 
 # 캐글 코리아와 함께하는 2nd ML 대회
