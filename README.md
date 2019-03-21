@@ -20,3 +20,4 @@ https://goo.gl/forms/9Uj96vttkVGJ4w6H3?fbclid=IwAR2Qzu0mxg9186SDeEYTXqUf3O77c4DR
 
 # 캐글 코리아와 함께하는 2nd ML 대회
 https://www.kaggle.com/c/2019-2nd-ml-month-with-kakr
+ 
