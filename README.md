@@ -1,7 +1,7 @@
 # 캐글 튜토리얼 자료
 (곧 올릴 예정)
 
-집값 예측 커널 - 
+집값 예측 커널 (Jupyter Notebook) - 
 https://www.dropbox.com/s/cgq0mqxuznxzajy/kernel_house_price.ipynb?dl=0
 
 # 튜토리얼 일시 및 장소
