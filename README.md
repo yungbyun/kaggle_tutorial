@@ -1,7 +1,7 @@
 # 캐글 튜토리얼 자료
 https://www.dropbox.com/s/0ge62bk971ne18e/%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC%EC%9E%90%EB%A3%8C%28%EC%A0%9C%EC%A3%BC%29.pdf?dl=0
 
-업데이트된 자료 (새 답안지 제출 내용 가) https://www.dropbox.com/s/v98h6u9rafzr6dj/%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC%EC%9E%90%EB%A3%8C%28%EC%A0%9C%EC%A3%BC%29-new.pdf?dl=0
+업데이트된 자료 (새 답안지 제출 내용 추가) https://www.dropbox.com/s/v98h6u9rafzr6dj/%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC%EC%9E%90%EB%A3%8C%28%EC%A0%9C%EC%A3%BC%29-new.pdf?dl=0
 
 집값 예측 커널 (Jupyter Notebook) - 
 https://www.dropbox.com/s/cgq0mqxuznxzajy/kernel_house_price.ipynb?dl=0
