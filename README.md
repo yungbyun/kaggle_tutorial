@@ -1,6 +1,9 @@
 # 캐글 튜토리얼 자료
 (곧 올릴 예정)
 
+집값 예측 커널 - 
+https://www.dropbox.com/s/cgq0mqxuznxzajy/kernel_house_price.ipynb?dl=0
+
 # 튜토리얼 일시 및 장소
 2019년 3월 22일(금) 오후 5시부터 (약 1시간 30분)
 
